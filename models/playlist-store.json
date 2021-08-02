@@ -1,0 +1,30 @@
+{
+  "playlistCollection": [
+    {
+      "id": "8b301260-d267-11eb-a8f7-591ae1064ded",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "test",
+      "songs": [
+        {
+          "id": "e8ea90c0-f372-11eb-b9fa-21823839e8a0",
+          "title": "Test",
+          "artist": "sdfsdg",
+          "duration": 10
+        },
+        {
+          "id": "0e6e4410-f376-11eb-9ca3-f3dede1ef17d",
+          "title": "awfr",
+          "artist": "dfagdg",
+          "duration": 1
+        },
+        {
+          "id": "19ad7260-f376-11eb-9ca3-f3dede1ef17d",
+          "title": "dfgsf",
+          "artist": "sfgh",
+          "duration": 4
+        }
+      ],
+      "duration": 15
+    }
+  ]
+}

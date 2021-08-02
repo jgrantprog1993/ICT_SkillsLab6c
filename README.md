@@ -1,2 +1,4 @@
-# ICT_SkillsLab6c
-Lab-06c Playlist 6, Implementing Sessions
+Welcome to the Playlist 6
+=========================
+
+Version 6 of the Playlist application
